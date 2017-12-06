@@ -44,7 +44,7 @@
     
   <script
     src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-    data-key="pk_test_g6yucKY72peQrdbb2goS4RNm" // your publishable keys
+    data-key="************" // your publishable keys
     data-image="" // your company Logo
     data-name="BB Booking"
     data-description=""
