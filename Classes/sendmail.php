@@ -1,7 +1,6 @@
 <?php
 
-    /*mail('bissa_rajesh2007@rediffmail.com', 'testmail', 'This is test mail','From: freak@freakzoid.com');
-    echo "mail sent";*/
+    
     class sendmail{
     	$var_to;
     	$var_from;
